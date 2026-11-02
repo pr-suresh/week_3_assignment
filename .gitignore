@@ -56,5 +56,3 @@ backend/*.pyc
 
 *.npz
 
-# Generated data (too large for git)
-backend/chunks.json

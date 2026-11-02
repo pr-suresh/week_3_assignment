@@ -83,9 +83,9 @@ export default function Home() {
           </div>
 
           {/* Sources Section */}
-          {/* <div className="mb-6">
+          { <div className="mb-6">
             <SourcesSection sources={sources} isVisible={sources.length > 0} />
-          </div> */}
+          </div> }
         </div>
 
         {/* Footer */}
